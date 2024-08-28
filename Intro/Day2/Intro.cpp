@@ -11,5 +11,4 @@ int main()
     cout<<"size of float"<<sizeof(b)<<endl;
     cout<<"size of char"<<sizeof(c)<<endl;
     cout<<"size of bool"<<sizeof(d)<<endl;
-    return 0;
 }
